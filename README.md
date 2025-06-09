@@ -22,7 +22,6 @@ This simulation uses a **static quadtree** for efficient neighbor searching, gre
 ## References
 
 - [Craig Reynolds' Boids](https://www.red3d.com/cwr/boids/)
-- [Johnny-Five Library](http://johnny-five.io/)
 - [Quadtree (Wikipedia)](https://en.wikipedia.org/wiki/Quadtree)
 
 ---
